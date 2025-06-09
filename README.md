@@ -17,7 +17,7 @@ This platform is designed to evaluate the outputs of Large Language Models (LLMs
 - Streamlit-based dashboard for interactive analysis.
 
 ## Project Structure
-├/ai-eval-platform/
+/ai-eval-platform/
 │
 ├── data/
 │   ├── prompts.csv         # List of consultation-style prompts
