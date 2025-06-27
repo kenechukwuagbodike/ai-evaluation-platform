@@ -4,3 +4,6 @@ matplotlib
 streamlit
 openai
 sentence-transformers
+seaborn
+numpy
+requests
